@@ -162,14 +162,11 @@ export default function App() {
   🌠
 </div>
 <div style={{
-  color: '#c084fc66', fontFamily: "'Space Mono',monospace",
+  color: '#c084fc, fontFamily: "'Space Mono',monospace",
   fontSize: 10, letterSpacing: '.2em', marginBottom: 12,
 }}>
   TK DESIGN
 </div>
-
-            
-  
           <h1 style={{
             fontFamily: "'Cinzel',serif", fontSize: 'clamp(28px,6vw,52px)', fontWeight: 700,
             background: 'linear-gradient(135deg,#c084fc,#818cf8,#c084fc)',
