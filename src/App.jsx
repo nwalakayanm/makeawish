@@ -158,10 +158,18 @@ export default function App() {
           </div>
         )}
 
-        <div style={{ textAlign: 'center', padding: '60px 20px 40px', animation: 'fadeUp .8s ease both' }}>
-          <div style={{ fontSize: 50, marginBottom: 12, animation: 'float 4s ease-in-out infinite', display: 'inline-block' }}>
-            🌠
-          </div>
+        <div style={{ textAlign: 'center', padding: '60px 20px 40px', animation: 'fadeUp .8s ease <div style={{ fontSize: 50, marginBottom: 4, animation: 'float 4s ease-in-out infinite', display: 'inline-block' }}>
+  🌠
+</div>
+<div style={{
+  color: '#c084fc66', fontFamily: "'Space Mono',monospace",
+  fontSize: 10, letterSpacing: '.2em', marginBottom: 12,
+}}>
+  TK DESIGN
+</div>
+
+            
+  
           <h1 style={{
             fontFamily: "'Cinzel',serif", fontSize: 'clamp(28px,6vw,52px)', fontWeight: 700,
             background: 'linear-gradient(135deg,#c084fc,#818cf8,#c084fc)',
