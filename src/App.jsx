@@ -162,7 +162,7 @@ export default function App() {
   🌠
 </div>
 <div style={{
-  color: '#c084fc, fontFamily: "'Space Mono',monospace",
+  color: '#c084fc', fontFamily: "'Space Mono',monospace",
   fontSize: 10, letterSpacing: '.2em', marginBottom: 12,
 }}>
   TK DESIGN
